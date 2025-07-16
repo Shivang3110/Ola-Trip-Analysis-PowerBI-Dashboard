@@ -4,10 +4,14 @@
 
 ## 📸 Screenshot
 
-![Ola Dashboard Overview](screenshots/overview_dashboard.png)
+![Dashboard Overview]
+
+<img width="1329" height="792" alt="overveiw" src="https://github.com/user-attachments/assets/e7329157-df2e-4b7a-ad38-8c9fb666b567" />
+<img width="1331" height="796" alt="time analysis" src="https://github.com/user-attachments/assets/dc6bb60b-db2a-40aa-9691-c4909ef2675e" />
+
 
 > 🖼️ *Additional views included in the screenshots PDF:*  
-> 📄 [View Full Dashboard Screenshots](Dashboard Screenshots.pdf.pdf)
+> 📄 [View Full Dashboard Screenshots]( Dashboard Screenshots.pdf )
 
 ---
 
@@ -107,10 +111,10 @@ Ola aims to gain deeper insights into booking patterns, revenue trends, and oper
 
 | File | Description |
 |------|-------------|
-| `Ola_Trip_Analysis.pbix` | Main Power BI dashboard file |
+| `Ola-Trip-Analysis-Dashboard.pbix` | Main Power BI dashboard file |
 | `README.md` | Overview and documentation |
-| `Problem_Statement.md` | Full problem statement & dashboard objectives |
-| `Ola_Trip_Analysis_Screenshots.pdf` | Visual overview of dashboard UI |
+| `Problem Statement.md` | Full problem statement & dashboard objectives |
+| `Dashboard Screenshots.pdf` | Visual overview of dashboard UI |
 
 ---
 
