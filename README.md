@@ -105,7 +105,7 @@ Ola aims to gain deeper insights into booking patterns, revenue trends, and oper
 
 ## 🔗 Video Explanation
 
-▶️ [Watch the Dashboard Walkthrough on LinkedIn](https://www.linkedin.com/posts/YOUR_VIDEO_LINK)
+▶️ [Watch the Dashboard Walkthrough on LinkedIn](https://www.linkedin.com/posts/shivangrawat-_powerbi-powerquery-dax-activity-7352007950913224704-9VRs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ2RwcB4Dv2cXhHltNDJ6TNeO1A0vip0Yw)
 
 ---
 
